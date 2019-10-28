@@ -41,6 +41,11 @@ section {
   background-color: #bbb;
 }
 
+.tech-icon {
+  color: rgb(43, 12, 92);
+  height: 1.3em;
+}
+
 section:nth-child(even) {
   background-color: #ddd;
 }
