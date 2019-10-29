@@ -43,6 +43,9 @@ header {
   flex: 1 0 auto;
   align-self: flex-end;
 }
+.nav_Link{
+  cursor:pointer;
+}
 .nav_Link_Current{
   font-size: 1.2em;
   text-decoration: underline;
@@ -62,12 +65,12 @@ header {
   border-left: none;
   justify-content: flex-start;
 }
-.welcomeView > .hero_Image_Wrapper{
+.hero_Image_Wrapper{
   display: none;
 }
 .welcomeView{
   display: flex;
-  flex-direction: column;
+  /* flex-direction: column; */
   justify-content: center;
   height: 100%;
 }
@@ -109,7 +112,6 @@ footer {
 .btn_1{
   background-color: white;
   color: rgb(29, 8, 63);
-  margin: 1%;
 }
 .btn_2{
   background-color: rgb(29, 8, 63);
@@ -120,4 +122,48 @@ footer {
 .tech-icon {
   color: rgb(29, 8, 63);
   height: 1.3em;
+}
+
+@media only screen and (min-width:600px){
+  .wrapper{
+    height: 100vh;
+  }
+  .hero_Image_Wrapper{
+    display: block;
+    height: 80%;
+  }
+  .heroImage{
+    height: 100%;
+  }
+  .content{
+    flex-direction: row;
+    padding-left: 3%;
+    height: calc(100vh - 50px);
+  }
+  .nav{
+    display: flex;
+    flex: 0 0 22%;
+    /* flex: 0 0 auto; */
+    align-items: center;
+    margin: 0;
+    border-bottom: none;
+    border-right: 1px solid #2e6fa1;
+  }
+  .nav_Links{
+    flex-direction: column;
+  }
+  .nav_Links > li{
+    align-self: center;
+  }
+  .welcomeView, .aboutMeView{
+    display: flex;
+    align-items: center;
+  }
+  .projectsView{
+    display: block;
+  }
+  .viewsWrapper{
+    flex: 1 1 auto;
+    overflow: auto;
+  }
 }
