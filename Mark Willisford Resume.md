@@ -3,10 +3,15 @@ Mark Willisford SOFTWARE ENGINEER
 ---
 
 <markwillisford@hotmail.com> 
+
 [GitHub](https://github.com/MarkWillisford/)
+
 [LinkedIn](https://www.linkedin.com/in/markwillisford/)
+
 [Portfolio](https://markwillisford.github.io/Portfolio/)
+
 (425) 890-7855 
+
 Bellevue, WA. 
 
 **Summary**
