@@ -1,12 +1,13 @@
 ---
-title: Mark Willisford SOFTWARE ENGINEER
+Mark Willisford SOFTWARE ENGINEER
 ---
 
-<markwillisford@hotmail.com> [GitHub](https://github.com/MarkWillisford/)
-
-(425) 890-7855 [LinkedIn](https://www.linkedin.com/in/markwillisford/)
-
-Bellevue, WA. [Portfolio](http://markwillisford.com/projects/)
+<markwillisford@hotmail.com> 
+[GitHub](https://github.com/MarkWillisford/)
+[LinkedIn](https://www.linkedin.com/in/markwillisford/)
+[Portfolio](https://markwillisford.github.io/Portfolio/)
+(425) 890-7855 
+Bellevue, WA. 
 
 **Summary**
 -----------
@@ -39,16 +40,22 @@ and easily.
 **Recent Projects**
 -------------------
 
-[RPG Character Creator](https://blooming-crag-44038.herokuapp.com/): A work in
-progress, full stack, online character creation app being constructed for use in
-my Pathfinder campaigns. Built with React / Redux, Node, Express and MongoDB.
+[RPG Character Creator](https://blooming-crag-44038.herokuapp.com/): A full stack, 
+online character creation app being constructed for use in my Pathfinder campaigns. 
+Built with React / Redux, Node, Express and MongoDB.
 
 [Tip Tracker](https://immense-coast-88549.herokuapp.com/): A small app built for
 restaurant workers. Built with Javascript / jQuery and Node, Express and
 MongoDB.
 
+[Come to the Table](https://markwillisford.github.io/Menu-Planning-An-API-Capstone-Project/): 
+Come to the Table is an app that will allow you to input ingredients that you want 
+to cook with and find appropriate recipes from the Spoonacular APIs. You may then 
+select a recipe for more details and preparation instructions. Built with HTML 5, 
+CSS3, Javascript and jQuery.
+
 [Self balancing BST](https://github.com/MarkWillisford/Self-Balancing-BST) :
-Build as a personal expansion to a basic project using C\#
+Built as a personal expansion to a basic project using C\#
 
 **Experience**
 --------------
