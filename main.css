@@ -70,7 +70,6 @@ header {
 }
 .welcomeView{
   display: flex;
-  /* flex-direction: column; */
   justify-content: center;
   height: 100%;
 }
@@ -143,7 +142,6 @@ footer {
   .nav{
     display: flex;
     flex: 0 0 22%;
-    /* flex: 0 0 auto; */
     align-items: center;
     margin: 0;
     border-bottom: none;

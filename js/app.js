@@ -44,6 +44,7 @@ function showAbout() {
   $('.aboutMeView').fadeIn();
 }
 
+// Animation of the navigation bar
 function navAnimation(selection) {
   if (selection === '#0') {
     $('#0').addClass('nav_Link_Current');
@@ -57,6 +58,7 @@ function navAnimation(selection) {
   }
 }
 
+// On load
 $(function() {
   var year = new Date().getFullYear()
   document.querySelector('footer p').innerHTML = '&copy; Mark Willisford ' + year
