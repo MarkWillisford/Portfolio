@@ -1,5 +1,5 @@
 ---
-Mark Willisford SOFTWARE ENGINEER
+Mark Willisford | SOFTWARE ENGINEER
 ---
 
 <markwillisford@hotmail.com> 
